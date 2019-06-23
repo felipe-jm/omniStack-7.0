@@ -1,1 +1,1 @@
-# OmniStackWeekend_Instagram
+# Projeto Instagram Clone desenvolvido na Semana OmniStack da Rocket Seat
