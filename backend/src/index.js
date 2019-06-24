@@ -8,7 +8,7 @@ const app = express();
 const server = require('http').Server(app);
 const io = require('socket.io')(server);
 
-mongoose.connect('mongodb+srv://felibreaddb:fjm27012000@cluster0-h9m6o.mongodb.net/test?retryWrites=true&w=majority', { useNewUrlParser: true });
+mongoose.connect('mongodb+srv://{mongodbuser}:{mongodbpassword}@cluster0-h9m6o.mongodb.net/test?retryWrites=true&w=majority', { useNewUrlParser: true });
 
 app.use((req, res, next) => {
     req.io = io;
