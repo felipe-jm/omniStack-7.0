@@ -32,7 +32,7 @@ export default class Feed extends Component {
     }
 
     registerToSocket = () => {
-        const socket = io('http://192.168.0.7:3333');
+        const socket = io('http://{backendip}:3333');
 
         //post
 
@@ -72,7 +72,7 @@ export default class Feed extends Component {
                                 <Image source={more} />
                             </View>
 
-                            <Image style={styles.feedImage} source={{ uri: `http://192.168.0.7:3333/files/${item.image}` }} />
+                            <Image style={styles.feedImage} source={{ uri: `http://{backendip}/files/${item.image}` }} />
 
                             <View style={styles.feedItemFooter}>
                                 <View style={styles.actions}>
