@@ -1,1 +1,1 @@
-# Projeto Instagram Clone desenvolvido na Semana OmniStack da Rocket Seat
+# Decent README soon
