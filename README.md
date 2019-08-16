@@ -2,20 +2,20 @@
   <img src="https://hacktion.co/wp-content/uploads/2019/03/node-react.png">
 </p>
 
-# OmniStack 7.0 realizada pela RocketSeat https://rocketseat.com.br/
+# OmniStack 7.0 powered by RocketSeat https://rocketseat.com.br/
 
-O projeto foi um mini clone do Instagram construído em uma semana com NodeJS, ReactJS e React Native. 
+The project was a mini Instagram clone built in one week with NodeJS, ReactJS and React Native.
 
-Esse foi meu primeiro contato com essas tecnologias e as achei simplesmente incríveis!
+This was my first contact with those technologies and I just loved them!
 
-## O que aprendi?
+## What I learned?
 
-Um pouco sobre...
+A little bit about...
 
-* Arquitetura MVC
-* Padrão RESTfull
-* Desenvolvimento de APIs
-* Ambiente de desenvolvimento
+* MVC Architecture
+* RESTfull
+* APIs Development
+* Development Environment
 * Javascript
 * NodeJS
 * ReactJS
