@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hacktion.co/wp-content/uploads/2019/03/node-react.png">
+  <img src="./images/omnistack.png">
 </p>
 
 # OmniStack 7.0 powered by RocketSeat https://rocketseat.com.br/
